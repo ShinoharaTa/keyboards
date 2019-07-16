@@ -133,7 +133,40 @@ ProMicroを載せます。
 
 ## QMK Firmwareの書き込み
 
-以下のリポジトリより、クローンor ZIPダウンロードを行ってください。
-テスト用ファームウェアは以下の手順でビルドし、書き込みます。
+下記ページよりQMKファームウェアをダウンロードします。
 
-本番用ファームウェアは以下の手順で書き込みます。
+[https://github.com/qmk/qmk_firmware/](https://github.com/qmk/qmk_firmware/)
+
+右上、"Clone or download"ボタンより。
+
+そしてダウンロードしたZIPファイルはお好きなところで展開します。
+フォルダ階層はなるべく浅いほうがいいです。
+
+gitに慣れている方はクローンしていただいても構いません。
+
+環境構築については、こちら[Helixのビルドマニュアル](https://github.com/MakotoKurauchi/helix/blob/master/Doc/firmware_jp.md)が詳しく解説されています。
+
+### 各キーのチェック用キーマップを書き込む
+
+このキーマップで、前記ーの入力確認ができます。
+
+```
+make shiro/check
+```
+
+書き込み後、A1,A2・・・と入力していくと対象のところに入力されます。
+
+### 本番用のキーマップ
+
+```
+make shiro/default
+```
+
+これを実行すると本番用のキーマップを書き込めます。
+デフォルトでは以下のようになっています。
+
+![keymap](https://cdn.discordapp.com/attachments/536423734144401422/600653405974953985/macro-keypad-shiro.png)
+
+キーマップの変更については`keyboards/shiro/keymap/default`をコピーして、お好きなフォルダ名で保存します。
+
+
