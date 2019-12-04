@@ -195,7 +195,7 @@ ProMicroを載せます。
 
 下記ページよりQMKファームウェアをダウンロードします。
 
-※後日公開します。
+https://github.com/ShinoharaTa/qmk_firmware/tree/kuro
 
 右上、"Clone or download"ボタンより。
 
@@ -217,6 +217,5 @@ make kuro:defualt:avrdude
 
 ※キーマップ画像
 
-書きかけのため、ファームウェアもしっかり動く気がしません・・・
-~~キーマップの変更については`keyboards/shiro/keymap/default`をコピーして、お好きなフォルダ名で保存し、変更を行います。~~
+キーマップの変更については`keyboards/kuro/rev2/keymap/default`をコピーして、お好きなフォルダ名で保存し、変更を行います。
 
