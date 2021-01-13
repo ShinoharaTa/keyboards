@@ -187,7 +187,7 @@ make rura66:default:avrdude
 これを実行すると本番用のキーマップを書き込めます。  
 デフォルトでは以下のようになっています。
 
-![keymap](https://cdn.discordapp.com/attachments/536423734144401422/600653405974953985/macro-keypad-shiro.png)
+![keymap](./images/keymap.png)
 
 キーマップの変更については`keyboards/rura66/keymap/default`をコピーして、お好きなフォルダ名で保存し、変更を行います。
 
