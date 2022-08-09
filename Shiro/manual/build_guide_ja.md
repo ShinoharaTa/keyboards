@@ -1,5 +1,11 @@
 # マクロキーボード「素 - Shiro」ビルドガイド
 
+2022/8/1より、素-Shiro はオープンソースPCBになりました。
+
+素 - Shiro オープンソースPCBの説明は[こちら](./build_guide_open_source_pcb_ja.md)
+
+素 - Shiro Classicのビルドガイドは[こちら](./build_guide_classic_ja.md)
+
 ## はじめに
 
 ![](https://cdn.discordapp.com/attachments/536423734144401422/597447002288291861/P7070070_cp.jpg)
