@@ -6,7 +6,7 @@ Here is information about the keyboard I, Shinohara, created.
 
 Below is the required documentation
 
-- [Regarding the Terms of Use of Shinohara's Board Design Data](./LICENSE)
+- [Regarding the Terms of Use of Shinohara's Board Design Data](./LICENSE.md)
 - [Amazon Wish List](https://www.amazon.co.jp/hz/wishlist/ls/36H4COTLUYA0M?ref_=wl_share)
 
 ## BlackMask60 (Not for sale)
