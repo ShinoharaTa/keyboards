@@ -1,15 +1,13 @@
 # Shinohara設計キーボード情報
 
-(The document English here)
+([Click here for the English version of the document.](./README_en.md))
 
 ここには私、Shinoharaの作成したキーボードの情報を記載します。
 
 以下、必要なドキュメント
 
-- 篠原氏の基板設計データ利用規約に関して
-- Amazon 欲しい物リスト
-
-**目次**
+- [篠原氏の基板設計データ利用規約に関して](./License.md)
+- [Amazon 欲しい物リスト](https://www.amazon.co.jp/hz/wishlist/ls/36H4COTLUYA0M?ref_=wl_share)
 
 ## BlackMask60 (非売品)
 
@@ -17,7 +15,7 @@
 部品点数を削減してシンプルにしつつ耐久性やスイッチ交換可能などのメンテナンス性を確保  
 販売はありません。
 
-→後継製品：RURA66の試作品になります
+→後継製品：RURA66
 
 ## 素 - Shiro (終売)
 
@@ -26,9 +24,9 @@
 
 ### 販売情報
 
-- Booth
-- 遊舎工房
-- 迷宮商会
+- [Booth](https://shino3.booth.pm/items/1444895)
+- [遊舎工房](https://shop.yushakobo.jp/products/consign_shiro)
+- [迷宮商会](https://store.shopping.yahoo.co.jp/meikyuu/gj-kb-201907270001.html)
 
 ※現在は終売しました。  
 基板のみ販売を継続しています。
@@ -46,10 +44,6 @@
 - 左右分離式
 - 拡張部品で親指対応
 
-### 販売情報
-
-- Booth
-
 ## RURA66
 
 BlackMask60ベースに再設計したキーボード
@@ -62,4 +56,4 @@ BlackMask60ベースに再設計したキーボード
 
 ### 販売情報
 
-- Booth
+- [Booth](https://booth.pm/ja/items/2643797)

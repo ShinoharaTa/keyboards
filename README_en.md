@@ -1,15 +1,13 @@
 # Shinohara Design Keyboard Information
 
-([Click here for the Japanese version of the document.](./README.md))
+([日本語ドキュメントはこちら](./README.md))
 
 Here is information about the keyboard I, Shinohara, created.
 
 Below is the required documentation
 
-- Regarding the Terms of Use of Shinohara's Board Design Data
-- Amazon Wish List
-
-**CONTENTS.**
+- [Regarding the Terms of Use of Shinohara's Board Design Data](./License.md)
+- [Amazon Wish List](https://www.amazon.co.jp/hz/wishlist/ls/36H4COTLUYA0M?ref_=wl_share)
 
 ## BlackMask60 (Not for sale)
 
@@ -26,9 +24,9 @@ It was handled by the following
 
 ### Sales Information
 
-- Booth
-- Yusha Kobo Inc.
-- Meikyu Shokai
+- [Booth](https://shino3.booth.pm/items/1444895)
+- [Yusha Kobo Inc.]((https://shop.yushakobo.jp/products/consign_shiro))
+- [Meikyu Shokai](https://store.shopping.yahoo.co.jp/meikyuu/gj-kb-201907270001.html)
 
 -> Now sold out.  
 Only substrates continue to be sold.
@@ -38,17 +36,13 @@ Only substrates continue to be sold.
 [Keyboard design data is now available.](https://github.com/ShinoharaTa/keyboards/tree/master/Shiro/pcb/Shiro)  
 Please be sure to read and agree to the Terms of Use before using the design data.
 
-## 玄 - Kuro
+## 玄 - Kuro (Not for sale)
 
 Expanded keyboard based on business card size.  
 
 - 30% Keyboard
 - Separate left and right sides
 - Thumb support with expansion components
-
-### Sales Information
-
-- Booth
 
 ## RURA66
 
@@ -62,4 +56,4 @@ Redesigned keyboard based on BlackMask60
 
 ### Sales Information
 
-- Booth
+- [Booth](https://booth.pm/ja/items/2643797)
