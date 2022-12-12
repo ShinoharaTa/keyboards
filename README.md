@@ -1,6 +1,6 @@
 # Shinohara設計キーボード情報
 
-([Click here for the English version of the document.](./README_en.md))
+([Click here for the English version of the document.](./LICENSE))
 
 ここには私、Shinoharaの作成したキーボードの情報を記載します。
 
