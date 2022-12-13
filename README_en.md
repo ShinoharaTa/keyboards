@@ -9,14 +9,6 @@ Below is the required documentation
 - [Regarding the Terms of Use of Shinohara's Board Design Data](./LICENSE.md)
 - [Amazon Wish List](https://www.amazon.co.jp/hz/wishlist/ls/36H4COTLUYA0M?ref_=wl_share)
 
-## BlackMask60 (Not for sale)
-
-The first left-right split Column Staggard keyboard design  
-Reduced number of parts for simplicity while ensuring durability and maintainability such as replaceable switches  
-Not for sale.
-
--> Successor Products: RURA66
-
 ## 素 - Shiro (End of sale)
 
 Long-selling product that has been on sale since 2019 and will continue until 2022

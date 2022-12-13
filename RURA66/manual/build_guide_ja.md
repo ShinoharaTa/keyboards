@@ -167,36 +167,15 @@ ProMicroを載せます。
 
 ## QMK Firmwareの書き込み
 
-下記ページよりQMKファームウェアをダウンロードします。
+このキーボードは[QMK firmware](https://github.com/qmk/qmk_firmware/)に対応します。  
+書き込み手順はQMK Firmwareの使用手順・書き込み手順は公式のドキュメントを参考にしてください
 
-[https://github.com/qmk/qmk_firmware/](https://github.com/qmk/qmk_firmware/)
-
-右上、"Clone or download"ボタンより。
-
-そしてダウンロードしたZIPファイルはお好きなところで展開します。  
-フォルダ階層はなるべく浅いほうがいいです。
-
-gitに慣れている方はクローンしていただいても構いません。
-
-環境構築については、こちら[Helixのビルドマニュアル](https://github.com/MakotoKurauchi/helix/blob/master/Doc/firmware_jp.md)が詳しく解説されています。
-
-
-**ビルドのみ**
+QMKコマンドの使用
 
 ```
-make rura66:default
+qmk flash -kb rura66 -km default
 ```
-
-**ビルドと書き込み**
-
-```
-make rura66:default:avrdude
-```
-
-これを実行すると本番用のキーマップを書き込めます。  
-デフォルトでは以下のようになっています。
 
 ![keymap](./images/keymap.png)
 
 キーマップの変更については`keyboards/rura66/keymap/default`をコピーして、お好きなフォルダ名で保存し、変更を行います。
-
